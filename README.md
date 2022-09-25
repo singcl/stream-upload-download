@@ -15,5 +15,7 @@ Since TypeScript cannot handle type information for `.vue` imports, they are shi
 
 You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
 
+# 在线演示
+https://stream-upload-download-xylo.vercel.app/
 # 前端大文件流式下载
-https://zhuanlan.zhihu.com/p/446145066
+原作者：https://zhuanlan.zhihu.com/p/446145066
